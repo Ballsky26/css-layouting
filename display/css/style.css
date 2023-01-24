@@ -1,0 +1,29 @@
+/* .navigasi {
+    background-color: salmon;
+}
+main {
+    background-color: lightblue;
+}
+.main span {
+    background-color: aqua;
+} */
+/* 
+a {
+    background-color: salmon;
+
+} 
+img {
+    width: 200px;
+    height: 200px;
+}
+.main {
+    width: 600px;
+    background-color: greenyellow;
+}
+.main h2 {
+    background-color: slateblue;
+} */
+
+.navigasi li {
+    display: inline;
+}
