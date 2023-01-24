@@ -1,0 +1,16 @@
+/* .satu {
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+}
+.dua {
+    width: 100%;
+    background-color: aqua;
+} */
+
+div {
+    width: 200px;
+    background-color: salmon;
+    height: 200px;
+    overflow: scroll;
+}
